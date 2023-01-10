@@ -25,3 +25,7 @@ The packages in this repository are defined as the `wordpress-plugins` type and 
 ## Acknowledgments
 
 This repository was created to add support to installing WPML with composer v2. It was heavily inspired by [`pernod-ricard-brandcos/wpml-installer`](https://bitbucket.org/pernod-ricard-brandcos/wpml-installer) and [`enelogic/wpml-installer`](https://github.com/enelogic/wpml-installer).
+
+## Disclaimer
+
+This project is not affiliated with WPML in any way, we do not provide any WPML code, all plugins are directly downloaded from wpml.org, your subscription info will be injected dynamically into the download link, your subscription info will only be transmitted to WPML and will not be displayed in `composer.lock`
