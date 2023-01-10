@@ -1,0 +1,62 @@
+name: Update packages versions
+
+on:
+  schedule:
+   - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get Latest Code
+        uses: actions/checkout@master
+
+      - name: Install php
+        uses: nanasess/setup-php@master
+        with:
+          php-version: '8.1'
+
+      - name: Regenerate packages.json
+        run: php ./wpml-packages.php
+
+      - name: Check if updates
+        run: |
+          file1="repository/packages.json"
+          file2="new_packages.json"
+          if cmp -s "$file1" "$file2"; then
+              echo "UPDATE=false" >> "$GITHUB_ENV"
+              echo "No changes. Aborting..."
+          else
+              echo "UPDATE=true" >> "$GITHUB_ENV"
+          fi
+
+      - name: Overwrite packages.json with the new one
+        if: env.UPDATE == 'true'
+        run: |
+          rm repository/packages.json
+          mv new_packages.json repository/packages.json
+
+      - name: Setup git
+        if: env.UPDATE == 'true'
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Commit new packages.json to update branch
+        if: env.UPDATE == 'true'
+        run: |
+            git checkout -b update
+            git add repository/packages.json
+            git commit -m "[AUTO] Updated versions in packages.json"
+            git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+            git push origin update
+
+      - name: Merge update branch into main
+        if: env.UPDATE == 'true'
+        run: |
+          git checkout main
+          git merge update
+          git branch -d update
+          git push
+          git push origin -d update
