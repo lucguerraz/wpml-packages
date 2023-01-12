@@ -22,7 +22,7 @@ jobs:
 
       - name: Check if updates
         run: |
-          file1="repository/packages.json"
+          file1="packages.json"
           file2="new_packages.json"
           if cmp -s "$file1" "$file2"; then
               echo "UPDATE=false" >> "$GITHUB_ENV"
@@ -34,8 +34,8 @@ jobs:
       - name: Overwrite packages.json with the new one
         if: env.UPDATE == 'true'
         run: |
-          rm repository/packages.json
-          mv new_packages.json repository/packages.json
+          rm packages.json
+          mv new_packages.json packages.json
 
       - name: Setup git
         if: env.UPDATE == 'true'
@@ -47,7 +47,7 @@ jobs:
         if: env.UPDATE == 'true'
         run: |
             git checkout -b update
-            git add repository/packages.json
+            git add packages.json
             git commit -m "[AUTO] Updated versions in packages.json"
             git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
             git push origin update
