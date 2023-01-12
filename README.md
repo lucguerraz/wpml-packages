@@ -1,6 +1,6 @@
 # WPML Packages Repository
 
-This is an unofficial repository for [wpml.org](https://wpml.org) plugins which allows their plugins to be managed along with other dependencies (such as [wpackagist.org](https://wpackagist.org) WordPress plugins) using Composer.
+An unofficial repository for [wpml.org](https://wpml.org) plugins which allows their plugins to be managed along with other dependencies (such as [wpackagist.org](https://wpackagist.org) WordPress plugins) using Composer.
 
 This repository does not provide any WPML code and is not affiliated with WPML in any way. For it to work you must have a valid WPML subscription. It uses this [composer plugin](https://github.com/lucguerraz/wpml-installer) to dynamically inject your subscription info into the download link. Your subscription info will only be transmitted to WPML and will not be displayed in `composer.lock`
 
