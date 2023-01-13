@@ -93,10 +93,10 @@
             }
         },
         "wpml/woocommerce-multilingual": {
-            "5.1.1": {
+            "5.1.2": {
                 "name": "wpml/woocommerce-multilingual",
                 "description": "WooCommerce <span>Multilingual & Multicurrency</span>",
-                "version": "5.1.1",
+                "version": "5.1.2",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -107,7 +107,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=637370&version=5.1.1"
+                    "url": "https://wpml.org/?download=637370&version=5.1.2"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^0.1",
