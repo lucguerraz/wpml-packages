@@ -1,10 +1,10 @@
 {
     "packages": {
         "wpml/sitepress-multilingual-cms": {
-            "4.5.14": {
+            "4.6.0": {
                 "name": "wpml/sitepress-multilingual-cms",
                 "description": "WPML Multilingual CMS",
-                "version": "4.5.14",
+                "version": "4.6.0",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -15,7 +15,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=6088&version=4.5.14"
+                    "url": "https://wpml.org/?download=6088&version=4.6.0"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^0.1",
@@ -24,10 +24,10 @@
             }
         },
         "wpml/wpml-string-translation": {
-            "3.2.3": {
+            "3.2.4": {
                 "name": "wpml/wpml-string-translation",
                 "description": "String Translation",
-                "version": "3.2.3",
+                "version": "3.2.4",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -38,7 +38,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=6092&version=3.2.3"
+                    "url": "https://wpml.org/?download=6092&version=3.2.4"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^0.1",
@@ -70,10 +70,10 @@
             }
         },
         "wpml/wpml-media-translation": {
-            "2.7.1": {
+            "2.7.2": {
                 "name": "wpml/wpml-media-translation",
                 "description": "Media Translation",
-                "version": "2.7.1",
+                "version": "2.7.2",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -84,7 +84,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=7474&version=2.7.1"
+                    "url": "https://wpml.org/?download=7474&version=2.7.2"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^0.1",
@@ -139,10 +139,10 @@
             }
         },
         "wpml/contact-form-7-multilingual": {
-            "1.2.0": {
+            "1.2.1": {
                 "name": "wpml/contact-form-7-multilingual",
                 "description": "Contact Form 7 <span>Multilingual</span>",
-                "version": "1.2.0",
+                "version": "1.2.1",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -153,7 +153,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=3156699&version=1.2.0"
+                    "url": "https://wpml.org/?download=3156699&version=1.2.1"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^0.1",
@@ -185,10 +185,10 @@
             }
         },
         "wpml/wpml-wpforms": {
-            "0.3.0": {
+            "0.3.1": {
                 "name": "wpml/wpml-wpforms",
                 "description": "WPForms <span>Multilingual</span>",
-                "version": "0.3.0",
+                "version": "0.3.1",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -199,7 +199,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=5368995&version=0.3.0"
+                    "url": "https://wpml.org/?download=5368995&version=0.3.1"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^0.1",
