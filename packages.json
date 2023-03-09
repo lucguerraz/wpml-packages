@@ -116,10 +116,10 @@
             }
         },
         "wpml/gravityforms-multilingual": {
-            "1.7.1": {
+            "1.7.2": {
                 "name": "wpml/gravityforms-multilingual",
                 "description": "Gravity Forms <span>Multilingual</span>",
-                "version": "1.7.1",
+                "version": "1.7.2",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -130,7 +130,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=8882&version=1.7.1"
+                    "url": "https://wpml.org/?download=8882&version=1.7.2"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^0.1",
