@@ -185,10 +185,10 @@
             }
         },
         "wpml/wpml-wpforms": {
-            "0.3.1": {
+            "0.3.2": {
                 "name": "wpml/wpml-wpforms",
                 "description": "WPForms <span>Multilingual</span>",
-                "version": "0.3.1",
+                "version": "0.3.2",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -199,7 +199,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=5368995&version=0.3.1"
+                    "url": "https://wpml.org/?download=5368995&version=0.3.2"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^0.1",
