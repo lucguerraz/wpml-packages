@@ -1,10 +1,10 @@
 {
     "packages": {
         "wpml/sitepress-multilingual-cms": {
-            "4.6.1": {
+            "4.6.2": {
                 "name": "wpml/sitepress-multilingual-cms",
                 "description": "WPML Multilingual CMS",
-                "version": "4.6.1",
+                "version": "4.6.2",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -15,7 +15,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=6088&version=4.6.1"
+                    "url": "https://wpml.org/?download=6088&version=4.6.2"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^0.1",
@@ -231,10 +231,10 @@
             }
         },
         "wpml/acfml": {
-            "2.0.1": {
+            "2.0.2": {
                 "name": "wpml/acfml",
                 "description": "Advanced Custom Fields <span>Multilingual</span>",
-                "version": "2.0.1",
+                "version": "2.0.2",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -245,7 +245,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=1097589&version=2.0.1"
+                    "url": "https://wpml.org/?download=1097589&version=2.0.2"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^0.1",
