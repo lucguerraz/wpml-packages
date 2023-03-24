@@ -231,10 +231,10 @@
             }
         },
         "wpml/acfml": {
-            "2.0.2": {
+            "2.0.3": {
                 "name": "wpml/acfml",
                 "description": "Advanced Custom Fields <span>Multilingual</span>",
-                "version": "2.0.2",
+                "version": "2.0.3",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -245,7 +245,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=1097589&version=2.0.2"
+                    "url": "https://wpml.org/?download=1097589&version=2.0.3"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^0.1",
