@@ -322,6 +322,29 @@
                 }
             }
         },
+        "wpml/wpml-graphql": {
+            "1.0.0": {
+                "name": "wpml/wpml-graphql",
+                "description": "WPML GraphQL",
+                "version": "1.0.0",
+                "type": "wordpress-plugin",
+                "license": "proprietary",
+                "support": {
+                    "docs": "https://wpml.org/documentation/wpml-core-and-add-on-plugins/",
+                    "forum": "https://wpml.org/forums/forum/english-support/"
+                },
+                "homepage": "https://wpml.org/",
+                "keywords": "wpml, multilingual, content",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wpml.org/?download=13705251&version=1.0.0"
+                },
+                "require": {
+                    "lucguerraz/wpml-installer": "^0.1",
+                    "composer/installers": "~1.0"
+                }
+            }
+        },
         "wpml/types": {
             "3.4.19": {
                 "name": "wpml/types",
