@@ -139,10 +139,10 @@
             }
         },
         "wpml/wpml-ninja-forms": {
-            "0.3.0": {
+            "0.3.1": {
                 "name": "wpml/wpml-ninja-forms",
                 "description": "Ninja Forms <span>Multilingual</span>",
-                "version": "0.3.0",
+                "version": "0.3.1",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -153,7 +153,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=5342487&version=0.3.0"
+                    "url": "https://wpml.org/?download=5342487&version=0.3.1"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^0.1",
@@ -162,10 +162,10 @@
             }
         },
         "wpml/wpml-wpforms": {
-            "0.3.3": {
+            "0.3.4": {
                 "name": "wpml/wpml-wpforms",
                 "description": "WPForms <span>Multilingual</span>",
-                "version": "0.3.3",
+                "version": "0.3.4",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -176,7 +176,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=5368995&version=0.3.3"
+                    "url": "https://wpml.org/?download=5368995&version=0.3.4"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^0.1",
