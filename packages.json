@@ -368,6 +368,29 @@
                 }
             }
         },
+        "wpml/wpml-elasticpress": {
+            "2.0.0": {
+                "name": "wpml/wpml-elasticpress",
+                "description": "WPML ElasticPress",
+                "version": "2.0.0",
+                "type": "wordpress-plugin",
+                "license": "proprietary",
+                "support": {
+                    "docs": "https://wpml.org/documentation/wpml-core-and-add-on-plugins/",
+                    "forum": "https://wpml.org/forums/forum/english-support/"
+                },
+                "homepage": "https://wpml.org/",
+                "keywords": "wpml, multilingual, content",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wpml.org/?download=14007953&version=2.0.0"
+                },
+                "require": {
+                    "lucguerraz/wpml-installer": "^0.1",
+                    "composer/installers": "~1.0"
+                }
+            }
+        },
         "wpml/wpml-sticky-links": {
             "1.5.4": {
                 "name": "wpml/wpml-sticky-links",
