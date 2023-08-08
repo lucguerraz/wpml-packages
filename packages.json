@@ -1,10 +1,10 @@
 {
     "packages": {
         "wpml/sitepress-multilingual-cms": {
-            "4.6.4": {
+            "4.6.5": {
                 "name": "wpml/sitepress-multilingual-cms",
                 "description": "WPML Multilingual CMS",
-                "version": "4.6.4",
+                "version": "4.6.5",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -15,7 +15,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=6088&version=4.6.4"
+                    "url": "https://wpml.org/?download=6088&version=4.6.5"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^0.1",
@@ -24,10 +24,10 @@
             }
         },
         "wpml/wpml-string-translation": {
-            "3.2.6": {
+            "3.2.7": {
                 "name": "wpml/wpml-string-translation",
                 "description": "String Translation",
-                "version": "3.2.6",
+                "version": "3.2.7",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -38,7 +38,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=6092&version=3.2.6"
+                    "url": "https://wpml.org/?download=6092&version=3.2.7"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^0.1",
@@ -346,10 +346,10 @@
             }
         },
         "wpml/types": {
-            "3.4.19": {
+            "3.4.20": {
                 "name": "wpml/types",
                 "description": "Toolset Types",
-                "version": "3.4.19",
+                "version": "3.4.20",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -360,7 +360,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=1385906&version=3.4.19"
+                    "url": "https://wpml.org/?download=1385906&version=3.4.20"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^0.1",
