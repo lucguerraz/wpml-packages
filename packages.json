@@ -346,10 +346,10 @@
             }
         },
         "wpml/types": {
-            "3.4.20": {
+            "3.5.1": {
                 "name": "wpml/types",
                 "description": "Toolset Types",
-                "version": "3.4.20",
+                "version": "3.5.1",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -360,7 +360,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=1385906&version=3.4.20"
+                    "url": "https://wpml.org/?download=1385906&version=3.5.1"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^0.1",
@@ -369,10 +369,10 @@
             }
         },
         "wpml/wpml-elasticpress": {
-            "2.0.2": {
+            "2.0.3": {
                 "name": "wpml/wpml-elasticpress",
                 "description": "WPML ElasticPress",
-                "version": "2.0.2",
+                "version": "2.0.3",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -383,7 +383,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=14007953&version=2.0.2"
+                    "url": "https://wpml.org/?download=14007953&version=2.0.3"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^0.1",
