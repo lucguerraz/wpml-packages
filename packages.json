@@ -1,10 +1,10 @@
 {
     "packages": {
         "wpml/sitepress-multilingual-cms": {
-            "4.6.7": {
+            "4.6.8": {
                 "name": "wpml/sitepress-multilingual-cms",
                 "description": "WPML Multilingual CMS",
-                "version": "4.6.7",
+                "version": "4.6.8",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -15,7 +15,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=6088&version=4.6.7"
+                    "url": "https://wpml.org/?download=6088&version=4.6.8"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^0.1",
@@ -70,10 +70,10 @@
             }
         },
         "wpml/woocommerce-multilingual": {
-            "5.3.0": {
+            "5.3.1": {
                 "name": "wpml/woocommerce-multilingual",
                 "description": "WooCommerce <span>Multilingual & Multicurrency</span>",
-                "version": "5.3.0",
+                "version": "5.3.1",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -84,7 +84,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=637370&version=5.3.0"
+                    "url": "https://wpml.org/?download=637370&version=5.3.1"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^0.1",
