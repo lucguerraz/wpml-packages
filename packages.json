@@ -392,10 +392,10 @@
             }
         },
         "wpml/wpml-import": {
-            "1.0.0-alpha.1": {
+            "1.0.0": {
                 "name": "wpml/wpml-import",
                 "description": "WPML Export and Import",
-                "version": "1.0.0-alpha.1",
+                "version": "1.0.0",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -406,7 +406,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=14356615&version=1.0.0-alpha.1"
+                    "url": "https://wpml.org/?download=14356615&version=1.0.0"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^0.1",
