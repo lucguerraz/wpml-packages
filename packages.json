@@ -24,10 +24,10 @@
             }
         },
         "wpml/wpml-string-translation": {
-            "3.2.10": {
+            "3.2.11": {
                 "name": "wpml/wpml-string-translation",
                 "description": "String Translation",
-                "version": "3.2.10",
+                "version": "3.2.11",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -38,7 +38,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=6092&version=3.2.10"
+                    "url": "https://wpml.org/?download=6092&version=3.2.11"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^0.1",
