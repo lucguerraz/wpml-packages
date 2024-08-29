@@ -346,10 +346,10 @@
             }
         },
         "wpml/wpml-graphql": {
-            "1.1.0": {
+            "1.1.1": {
                 "name": "wpml/wpml-graphql",
                 "description": "WPML GraphQL",
-                "version": "1.1.0",
+                "version": "1.1.1",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -360,7 +360,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=13705251&version=1.1.0"
+                    "url": "https://wpml.org/?download=13705251&version=1.1.1"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^0.1",
