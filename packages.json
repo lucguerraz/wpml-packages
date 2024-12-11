@@ -24,10 +24,10 @@
             }
         },
         "wpml/wpml-string-translation": {
-            "3.2.16": {
+            "3.2.17": {
                 "name": "wpml/wpml-string-translation",
                 "description": "String Translation",
-                "version": "3.2.16",
+                "version": "3.2.17",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -38,7 +38,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=6092&version=3.2.16"
+                    "url": "https://wpml.org/?download=6092&version=3.2.17"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^0.1",
@@ -162,10 +162,10 @@
             }
         },
         "wpml/wpml-wpforms": {
-            "0.4.0": {
+            "0.4.1": {
                 "name": "wpml/wpml-wpforms",
                 "description": "WPForms <span>Multilingual</span>",
-                "version": "0.4.0",
+                "version": "0.4.1",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -176,7 +176,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=5368995&version=0.4.0"
+                    "url": "https://wpml.org/?download=5368995&version=0.4.1"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^0.1",
@@ -346,10 +346,10 @@
             }
         },
         "wpml/wpml-graphql": {
-            "1.1.1": {
+            "1.1.2": {
                 "name": "wpml/wpml-graphql",
                 "description": "WPML GraphQL",
-                "version": "1.1.1",
+                "version": "1.1.2",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -360,7 +360,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=13705251&version=1.1.1"
+                    "url": "https://wpml.org/?download=13705251&version=1.1.2"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^0.1",
