@@ -45,7 +45,7 @@ foreach ($data->downloads->plugins as $slug => $details) {
   ];
 
   $packages_json->packages->$slug->$version->require = (object) [
-    "lucguerraz/wpml-installer" => "^0.1",
+    "lucguerraz/wpml-installer" => "^1.0",
     "composer/installers" => "~1.0"
   ];
 
