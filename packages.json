@@ -19,7 +19,7 @@
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
-                    "composer/installers": "~1.0"
+                    "composer/installers": "^1.0 || ^2.0"
                 }
             }
         },
@@ -42,7 +42,7 @@
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
-                    "composer/installers": "~1.0"
+                    "composer/installers": "^1.0 || ^2.0"
                 }
             }
         },
@@ -65,7 +65,7 @@
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
-                    "composer/installers": "~1.0"
+                    "composer/installers": "^1.0 || ^2.0"
                 }
             }
         },
@@ -88,7 +88,7 @@
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
-                    "composer/installers": "~1.0"
+                    "composer/installers": "^1.0 || ^2.0"
                 }
             }
         },
@@ -111,7 +111,7 @@
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
-                    "composer/installers": "~1.0"
+                    "composer/installers": "^1.0 || ^2.0"
                 }
             }
         },
@@ -134,7 +134,7 @@
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
-                    "composer/installers": "~1.0"
+                    "composer/installers": "^1.0 || ^2.0"
                 }
             }
         },
@@ -157,7 +157,7 @@
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
-                    "composer/installers": "~1.0"
+                    "composer/installers": "^1.0 || ^2.0"
                 }
             }
         },
@@ -180,7 +180,7 @@
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
-                    "composer/installers": "~1.0"
+                    "composer/installers": "^1.0 || ^2.0"
                 }
             }
         },
@@ -203,7 +203,7 @@
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
-                    "composer/installers": "~1.0"
+                    "composer/installers": "^1.0 || ^2.0"
                 }
             }
         },
@@ -226,7 +226,7 @@
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
-                    "composer/installers": "~1.0"
+                    "composer/installers": "^1.0 || ^2.0"
                 }
             }
         },
@@ -249,7 +249,7 @@
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
-                    "composer/installers": "~1.0"
+                    "composer/installers": "^1.0 || ^2.0"
                 }
             }
         },
@@ -272,7 +272,7 @@
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
-                    "composer/installers": "~1.0"
+                    "composer/installers": "^1.0 || ^2.0"
                 }
             }
         },
@@ -295,7 +295,7 @@
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
-                    "composer/installers": "~1.0"
+                    "composer/installers": "^1.0 || ^2.0"
                 }
             }
         },
@@ -318,7 +318,7 @@
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
-                    "composer/installers": "~1.0"
+                    "composer/installers": "^1.0 || ^2.0"
                 }
             }
         },
@@ -341,7 +341,7 @@
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
-                    "composer/installers": "~1.0"
+                    "composer/installers": "^1.0 || ^2.0"
                 }
             }
         },
@@ -364,7 +364,7 @@
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
-                    "composer/installers": "~1.0"
+                    "composer/installers": "^1.0 || ^2.0"
                 }
             }
         },
@@ -387,7 +387,7 @@
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
-                    "composer/installers": "~1.0"
+                    "composer/installers": "^1.0 || ^2.0"
                 }
             }
         },
@@ -410,7 +410,7 @@
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
-                    "composer/installers": "~1.0"
+                    "composer/installers": "^1.0 || ^2.0"
                 }
             }
         },
@@ -433,7 +433,7 @@
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
-                    "composer/installers": "~1.0"
+                    "composer/installers": "^1.0 || ^2.0"
                 }
             }
         },
@@ -456,7 +456,7 @@
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
-                    "composer/installers": "~1.0"
+                    "composer/installers": "^1.0 || ^2.0"
                 }
             }
         }
