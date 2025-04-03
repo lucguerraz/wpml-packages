@@ -323,10 +323,10 @@
             }
         },
         "wpml/types": {
-            "3.5.2": {
+            "3.6.0": {
                 "name": "wpml/types",
                 "description": "Toolset Types",
-                "version": "3.5.2",
+                "version": "3.6.0",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -337,7 +337,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=1385906&version=3.5.2"
+                    "url": "https://wpml.org/?download=1385906&version=3.6.0"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
