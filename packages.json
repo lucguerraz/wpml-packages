@@ -1,10 +1,10 @@
 {
     "packages": {
         "wpml/sitepress-multilingual-cms": {
-            "4.7.3": {
+            "4.7.4": {
                 "name": "wpml/sitepress-multilingual-cms",
                 "description": "WPML Multilingual CMS",
-                "version": "4.7.3",
+                "version": "4.7.4",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -15,7 +15,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=6088&version=4.7.3"
+                    "url": "https://wpml.org/?download=6088&version=4.7.4"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
@@ -24,10 +24,10 @@
             }
         },
         "wpml/wpml-string-translation": {
-            "3.3.2": {
+            "3.3.3": {
                 "name": "wpml/wpml-string-translation",
                 "description": "String Translation",
-                "version": "3.3.2",
+                "version": "3.3.3",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -38,7 +38,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=6092&version=3.3.2"
+                    "url": "https://wpml.org/?download=6092&version=3.3.3"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
@@ -70,10 +70,10 @@
             }
         },
         "wpml/woocommerce-multilingual": {
-            "5.4.4": {
+            "5.4.5": {
                 "name": "wpml/woocommerce-multilingual",
                 "description": "WooCommerce <span>Multilingual & Multicurrency</span>",
-                "version": "5.4.4",
+                "version": "5.4.5",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -84,7 +84,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=637370&version=5.4.4"
+                    "url": "https://wpml.org/?download=637370&version=5.4.5"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
@@ -231,10 +231,10 @@
             }
         },
         "wpml/wpml-all-import": {
-            "2.3.0": {
+            "2.3.1": {
                 "name": "wpml/wpml-all-import",
                 "description": "WP All Import <span>Multilingual</span>",
-                "version": "2.3.0",
+                "version": "2.3.1",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -245,7 +245,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=720221&version=2.3.0"
+                    "url": "https://wpml.org/?download=720221&version=2.3.1"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
