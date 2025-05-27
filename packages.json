@@ -1,10 +1,10 @@
 {
     "packages": {
         "wpml/sitepress-multilingual-cms": {
-            "4.7.4": {
+            "4.7.5": {
                 "name": "wpml/sitepress-multilingual-cms",
                 "description": "WPML Multilingual CMS",
-                "version": "4.7.4",
+                "version": "4.7.5",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -15,7 +15,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=6088&version=4.7.4"
+                    "url": "https://wpml.org/?download=6088&version=4.7.5"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
