@@ -185,10 +185,10 @@
             }
         },
         "wpml/buddypress-multilingual": {
-            "1.8.1": {
+            "1.8.2": {
                 "name": "wpml/buddypress-multilingual",
                 "description": "BuddyPress <span>Multilingual</span>",
-                "version": "1.8.1",
+                "version": "1.8.2",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -199,7 +199,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=2216259&version=1.8.1"
+                    "url": "https://wpml.org/?download=2216259&version=1.8.2"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
@@ -231,10 +231,10 @@
             }
         },
         "wpml/wpml-all-import": {
-            "2.3.1": {
+            "2.3.2": {
                 "name": "wpml/wpml-all-import",
                 "description": "WP All Import <span>Multilingual</span>",
-                "version": "2.3.1",
+                "version": "2.3.2",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -245,7 +245,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=720221&version=2.3.1"
+                    "url": "https://wpml.org/?download=720221&version=2.3.2"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
