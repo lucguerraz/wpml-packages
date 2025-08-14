@@ -300,10 +300,10 @@
             }
         },
         "wpml/wp-seo-multilingual": {
-            "2.2.2": {
+            "2.2.3": {
                 "name": "wpml/wp-seo-multilingual",
                 "description": "WPML SEO",
-                "version": "2.2.2",
+                "version": "2.2.3",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -314,7 +314,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=3566177&version=2.2.2"
+                    "url": "https://wpml.org/?download=3566177&version=2.2.3"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
