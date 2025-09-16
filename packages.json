@@ -46,34 +46,11 @@
                 }
             }
         },
-        "wpml/wpml-translation-management": {
-            "2.10.8": {
-                "name": "wpml/wpml-translation-management",
-                "description": "Translation Management",
-                "version": "2.10.8",
-                "type": "wordpress-plugin",
-                "license": "proprietary",
-                "support": {
-                    "docs": "https://wpml.org/documentation/wpml-core-and-add-on-plugins/",
-                    "forum": "https://wpml.org/forums/forum/english-support/"
-                },
-                "homepage": "https://wpml.org/",
-                "keywords": "wpml, multilingual, content",
-                "dist": {
-                    "type": "zip",
-                    "url": "https://wpml.org/?download=6094&version=2.10.8"
-                },
-                "require": {
-                    "lucguerraz/wpml-installer": "^1.0",
-                    "composer/installers": "^1.0 || ^2.0"
-                }
-            }
-        },
         "wpml/woocommerce-multilingual": {
-            "5.5.2": {
+            "5.5.2.1": {
                 "name": "wpml/woocommerce-multilingual",
-                "description": "WooCommerce <span>Multilingual & Multicurrency</span>",
-                "version": "5.5.2",
+                "description": "<span>WPML Multilingual & Multicurrency</span> for WooCommerce",
+                "version": "5.5.2.1",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -84,7 +61,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=637370&version=5.5.2"
+                    "url": "https://wpml.org/?download=637370&version=5.5.2.1"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
@@ -276,29 +253,6 @@
                 }
             }
         },
-        "wpml/wpml-media-translation": {
-            "3.0.0": {
-                "name": "wpml/wpml-media-translation",
-                "description": "Media Translation",
-                "version": "3.0.0",
-                "type": "wordpress-plugin",
-                "license": "proprietary",
-                "support": {
-                    "docs": "https://wpml.org/documentation/wpml-core-and-add-on-plugins/",
-                    "forum": "https://wpml.org/forums/forum/english-support/"
-                },
-                "homepage": "https://wpml.org/",
-                "keywords": "wpml, multilingual, content",
-                "dist": {
-                    "type": "zip",
-                    "url": "https://wpml.org/?download=7474&version=3.0.0"
-                },
-                "require": {
-                    "lucguerraz/wpml-installer": "^1.0",
-                    "composer/installers": "^1.0 || ^2.0"
-                }
-            }
-        },
         "wpml/wp-seo-multilingual": {
             "2.2.3": {
                 "name": "wpml/wp-seo-multilingual",
@@ -315,6 +269,29 @@
                 "dist": {
                     "type": "zip",
                     "url": "https://wpml.org/?download=3566177&version=2.2.3"
+                },
+                "require": {
+                    "lucguerraz/wpml-installer": "^1.0",
+                    "composer/installers": "^1.0 || ^2.0"
+                }
+            }
+        },
+        "wpml/wpml-media-translation": {
+            "3.0.0": {
+                "name": "wpml/wpml-media-translation",
+                "description": "Media Translation",
+                "version": "3.0.0",
+                "type": "wordpress-plugin",
+                "license": "proprietary",
+                "support": {
+                    "docs": "https://wpml.org/documentation/wpml-core-and-add-on-plugins/",
+                    "forum": "https://wpml.org/forums/forum/english-support/"
+                },
+                "homepage": "https://wpml.org/",
+                "keywords": "wpml, multilingual, content",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://wpml.org/?download=7474&version=3.0.0"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
@@ -407,52 +384,6 @@
                 "dist": {
                     "type": "zip",
                     "url": "https://wpml.org/?download=14356615&version=1.0.2"
-                },
-                "require": {
-                    "lucguerraz/wpml-installer": "^1.0",
-                    "composer/installers": "^1.0 || ^2.0"
-                }
-            }
-        },
-        "wpml/wpml-sticky-links": {
-            "1.5.5": {
-                "name": "wpml/wpml-sticky-links",
-                "description": "Sticky Links",
-                "version": "1.5.5",
-                "type": "wordpress-plugin",
-                "license": "proprietary",
-                "support": {
-                    "docs": "https://wpml.org/documentation/wpml-core-and-add-on-plugins/",
-                    "forum": "https://wpml.org/forums/forum/english-support/"
-                },
-                "homepage": "https://wpml.org/",
-                "keywords": "wpml, multilingual, content",
-                "dist": {
-                    "type": "zip",
-                    "url": "https://wpml.org/?download=6090&version=1.5.5"
-                },
-                "require": {
-                    "lucguerraz/wpml-installer": "^1.0",
-                    "composer/installers": "^1.0 || ^2.0"
-                }
-            }
-        },
-        "wpml/wpml-cms-nav": {
-            "1.5.6": {
-                "name": "wpml/wpml-cms-nav",
-                "description": "CMS Navigation",
-                "version": "1.5.6",
-                "type": "wordpress-plugin",
-                "license": "proprietary",
-                "support": {
-                    "docs": "https://wpml.org/documentation/wpml-core-and-add-on-plugins/",
-                    "forum": "https://wpml.org/forums/forum/english-support/"
-                },
-                "homepage": "https://wpml.org/",
-                "keywords": "wpml, multilingual, content",
-                "dist": {
-                    "type": "zip",
-                    "url": "https://wpml.org/?download=6096&version=1.5.6"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
