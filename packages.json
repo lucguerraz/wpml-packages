@@ -323,10 +323,10 @@
             }
         },
         "wpml/contact-form-7-multilingual": {
-            "1.3.2": {
+            "1.3.3": {
                 "name": "wpml/contact-form-7-multilingual",
-                "description": "Contact Form 7 <span>Multilingual</span>",
-                "version": "1.3.2",
+                "description": "<span>WPML Multilingual</span> for CF7",
+                "version": "1.3.3",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -337,7 +337,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=3156699&version=1.3.2"
+                    "url": "https://wpml.org/?download=3156699&version=1.3.3"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
@@ -369,10 +369,10 @@
             }
         },
         "wpml/woocommerce-multilingual": {
-            "5.5.2.1": {
+            "5.5.2.2": {
                 "name": "wpml/woocommerce-multilingual",
                 "description": "<span>WPML Multilingual & Multicurrency</span> for WooCommerce",
-                "version": "5.5.2.1",
+                "version": "5.5.2.2",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -383,7 +383,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=637370&version=5.5.2.1"
+                    "url": "https://wpml.org/?download=637370&version=5.5.2.2"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
