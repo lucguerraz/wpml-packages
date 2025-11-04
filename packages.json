@@ -254,10 +254,10 @@
             }
         },
         "wpml/buddypress-multilingual": {
-            "1.9.0": {
+            "1.9.1": {
                 "name": "wpml/buddypress-multilingual",
-                "description": "BuddyPress <span>Multilingual</span>",
-                "version": "1.9.0",
+                "description": "<span>WPML Multilingual</span> for BuddyPress and BuddyBoss",
+                "version": "1.9.1",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -268,7 +268,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=2216259&version=1.9.0"
+                    "url": "https://wpml.org/?download=2216259&version=1.9.1"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
