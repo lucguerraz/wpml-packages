@@ -415,10 +415,10 @@
             }
         },
         "wpml/wpml-string-translation": {
-            "3.5.0": {
+            "3.5.1": {
                 "name": "wpml/wpml-string-translation",
                 "description": "String Translation",
-                "version": "3.5.0",
+                "version": "3.5.1",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -429,7 +429,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=6092&version=3.5.0"
+                    "url": "https://wpml.org/?download=6092&version=3.5.1"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
@@ -438,10 +438,10 @@
             }
         },
         "wpml/sitepress-multilingual-cms": {
-            "4.9.0": {
+            "4.9.1": {
                 "name": "wpml/sitepress-multilingual-cms",
                 "description": "WPML Multilingual CMS",
-                "version": "4.9.0",
+                "version": "4.9.1",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -452,7 +452,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=6088&version=4.9.0"
+                    "url": "https://wpml.org/?download=6088&version=4.9.1"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
