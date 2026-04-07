@@ -231,10 +231,10 @@
             }
         },
         "wpml/acfml": {
-            "2.2.2": {
+            "2.2.3": {
                 "name": "wpml/acfml",
                 "description": "Advanced Custom Fields <span>Multilingual</span>",
-                "version": "2.2.2",
+                "version": "2.2.3",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -245,7 +245,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=1097589&version=2.2.2"
+                    "url": "https://wpml.org/?download=1097589&version=2.2.3"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
@@ -277,10 +277,10 @@
             }
         },
         "wpml/wpml-wpforms": {
-            "0.4.1": {
+            "0.5.0": {
                 "name": "wpml/wpml-wpforms",
                 "description": "WPForms <span>Multilingual</span>",
-                "version": "0.4.1",
+                "version": "0.5.0",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -291,7 +291,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=5368995&version=0.4.1"
+                    "url": "https://wpml.org/?download=5368995&version=0.5.0"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
@@ -300,10 +300,10 @@
             }
         },
         "wpml/wpml-ninja-forms": {
-            "0.4.0": {
+            "0.5.0": {
                 "name": "wpml/wpml-ninja-forms",
                 "description": "Ninja Forms <span>Multilingual</span>",
-                "version": "0.4.0",
+                "version": "0.5.0",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -314,7 +314,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=5342487&version=0.4.0"
+                    "url": "https://wpml.org/?download=5342487&version=0.5.0"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
@@ -346,10 +346,10 @@
             }
         },
         "wpml/gravityforms-multilingual": {
-            "1.8.3": {
+            "1.8.4": {
                 "name": "wpml/gravityforms-multilingual",
                 "description": "Gravity Forms <span>Multilingual</span>",
-                "version": "1.8.3",
+                "version": "1.8.4",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -360,7 +360,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=8882&version=1.8.3"
+                    "url": "https://wpml.org/?download=8882&version=1.8.4"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
