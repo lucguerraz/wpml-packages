@@ -300,10 +300,10 @@
             }
         },
         "wpml/wpml-ninja-forms": {
-            "0.5.0": {
+            "0.5.1": {
                 "name": "wpml/wpml-ninja-forms",
                 "description": "Ninja Forms <span>Multilingual</span>",
-                "version": "0.5.0",
+                "version": "0.5.1",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -314,7 +314,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=5342487&version=0.5.0"
+                    "url": "https://wpml.org/?download=5342487&version=0.5.1"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
