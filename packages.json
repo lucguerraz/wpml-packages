@@ -162,10 +162,10 @@
             }
         },
         "wpml/wp-seo-multilingual": {
-            "5.0.0": {
+            "5.0.1": {
                 "name": "wpml/wp-seo-multilingual",
                 "description": "WPML SEO",
-                "version": "5.0.0",
+                "version": "5.0.1",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -176,7 +176,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=3566177&version=5.0.0"
+                    "url": "https://wpml.org/?download=3566177&version=5.0.1"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
@@ -369,10 +369,10 @@
             }
         },
         "wpml/woocommerce-multilingual": {
-            "5.6.0": {
+            "5.6.1": {
                 "name": "wpml/woocommerce-multilingual",
                 "description": "<span>WPML Multilingual & Multicurrency</span> for WooCommerce",
-                "version": "5.6.0",
+                "version": "5.6.1",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -383,7 +383,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=637370&version=5.6.0"
+                    "url": "https://wpml.org/?download=637370&version=5.6.1"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
@@ -415,10 +415,10 @@
             }
         },
         "wpml/wpml-string-translation": {
-            "5.0.0": {
+            "5.0.2": {
                 "name": "wpml/wpml-string-translation",
                 "description": "String Translation",
-                "version": "5.0.0",
+                "version": "5.0.2",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -429,7 +429,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=6092&version=5.0.0"
+                    "url": "https://wpml.org/?download=6092&version=5.0.2"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
@@ -438,10 +438,10 @@
             }
         },
         "wpml/sitepress-multilingual-cms": {
-            "5.0.1": {
+            "5.0.2": {
                 "name": "wpml/sitepress-multilingual-cms",
                 "description": "WPML Multilingual CMS",
-                "version": "5.0.1",
+                "version": "5.0.2",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -452,7 +452,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=6088&version=5.0.1"
+                    "url": "https://wpml.org/?download=6088&version=5.0.2"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
