@@ -70,10 +70,10 @@
             }
         },
         "wpml/wpml-elasticpress": {
-            "5.0.0": {
+            "5.0.1": {
                 "name": "wpml/wpml-elasticpress",
                 "description": "WPML ElasticPress",
-                "version": "5.0.0",
+                "version": "5.0.1",
                 "type": "wordpress-plugin",
                 "license": "proprietary",
                 "support": {
@@ -84,7 +84,7 @@
                 "keywords": "wpml, multilingual, content",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wpml.org/?download=14007953&version=5.0.0"
+                    "url": "https://wpml.org/?download=14007953&version=5.0.1"
                 },
                 "require": {
                     "lucguerraz/wpml-installer": "^1.0",
